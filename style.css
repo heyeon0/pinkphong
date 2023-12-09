@@ -1,0 +1,37 @@
+.bg-light {
+    background-color: white !important;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: orange;
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+    text-align: center;
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+    background-color: #95d82c;
+    border: 1px solid #95d82c;
+}
+
+.btn-block:hover {
+    background-color: #95d82c;
+    border: 1px solid #95d82c;
+}
+
+/* .top-notice {
+    width: 1200px;
+    height: 150px;
+} */
+
+.top-notice>h5 {
+    font-weight: bolder;
+    padding-top: 110px;
+}
